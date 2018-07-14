@@ -1,1 +1,1 @@
-# machine_learning_standford_coursera
+# machine_learning_stanford_coursera
